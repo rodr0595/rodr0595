@@ -32,17 +32,19 @@
     </ul>
     <h2>Projects</h2>
     <ul>
-        <li>Natural Language Processing and Computational Linguistics
+        <li>[Natural Language Processing and Computational Linguistics]
             <p>Explored corpus analysis, manipulation, and the integration of linguistic concepts with programming.</p>
         </li>
-        <li>Health Insurance Price Trends Analysis
+        <li>[Health Insurance Price Trends Analysis]
             <p>Utilized Python, SQLite, Pandas, and NumPy to analyze trends in health insurance prices based on
                 geographical regions using large public data.</p>
         </li>
-        <li>Local Real Estate Market Prediction
+        <li>[Local Real Estate Market Prediction]
             <p>Developed a machine learning model to predict local real estate market values. Employed feature
                 engineering, data processing, PyTorch, and real estate/MLS API data requests.</p>
         </li>
+        <li>[Device Motion Graph Application for Android OS]
+        <p>Wrote A fully responsive web application that communicates with device data and plots motion on a linear graph.</p></li>
     </ul>
     <h2>Work Experience</h2>
     <ul>
@@ -73,17 +75,19 @@
         <li>SQL (Google Bigquery, PostgreSQL, mySQL)</li>
         <li>Python (NLTK, Pandas, Scikitlearn, Pytorch, Matplotlib, Huggingface) & RStudio</li>
         <li>Full-Stack Web/Application Development (Html, CSS, Javascript, VoltBuilder)</li>
+        <li>RESTful APIs</li>
+        <li>Text Mining & Web Scraping</li>
     </ul>
     <p>Thank you for visiting my GitHub portfolio! If you're interested in collaborating or have any questions, feel
         free to reach out to me at <a href="mailto:johanrodr0595@gmail.com">johanrodr0595@gmail.com</a> or connect with
         me on <a href="<LinkedIn Profile URL>">LinkedIn</a>.</p>
+
+        
 <!--
 **rodr0595/rodr0595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 -  I’m currently working on ...
-- 🌱 I’m currently learning ...
+-  I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
