@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1>Hello, Im Johan!</h1>
+<h2>Data Scientist, Analyst, Computational Linguist, and Life-Long Learner</h2>
 
 <!--
 **rodr0595/rodr0595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
